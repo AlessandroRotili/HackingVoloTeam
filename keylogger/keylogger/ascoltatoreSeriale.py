@@ -6,7 +6,7 @@ def ascoltatore():
     import yagmail
     import datetime as dt
     import platform as p
-    
+    #commento prova
     today=dt.datetime.now().strftime('%Y-%m-%d at %H:%M')
     r=("\n")*4
     
